@@ -1,7 +1,7 @@
-#  # Q1
+# Q1
 # print("twinkle,twinkle,little star, \n \t how i wonder what you are ! \n \t\t up above the world so high,\n\t\t like a dimond in the sky.\n twinkle , twinkle , little star,\n \t how i wonder what you are ")
 #
-# # q2
+##q2
 # import sys
 # print("python version")
 # print(sys.version)
